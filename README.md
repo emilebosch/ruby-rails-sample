@@ -23,7 +23,7 @@ Your app should now be running on [localhost:5000](http://localhost:5000/).
 
 ```
 heroku create
-git push heroku master
+git push heroku mastasder
 heroku run rake db:migrate
 heroku open
 ```
